@@ -3,7 +3,14 @@
 
 ## Usage: 
 
-`python dcm_anon.py input_dir output_dir`
+to anonymize a file:  
+
+    python dcm_anon.py input_dicom_file output_dicom_file
+
+to anonymize all dicom files in a folder recursively:    
+
+    python dcm_anon.py input_dir output_dir
+
 
 ## Note:
 
