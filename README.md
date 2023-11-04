@@ -1,4 +1,6 @@
 
+[![Python package](https://github.com/yinglilu/dicom-anonymizer/actions/workflows/pythonpackage.yml/badge.svg)](https://github.com/yinglilu/dicom-anonymizer/actions/workflows/pythonpackage.yml)
+
 # Anonymize dicom files in input_dir recursively
 
 ## Usage: 
