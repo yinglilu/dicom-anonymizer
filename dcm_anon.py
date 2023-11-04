@@ -108,7 +108,7 @@ def anonymize_and_save(dicom_file, dest_dicom_file, tags2anon):
 
 usage = """usage:
     to anonymize a file:
-        python dcm_anon.py input_dicom_file output_dicom_file
+        python dcm_anon.py path/to/input_dicom_file path/to/output_dicom_file
     to anonymize all dicom files in a folder recursively:  
         python dcm_anon.py input_dir output_dir
     """

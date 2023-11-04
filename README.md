@@ -1,13 +1,14 @@
 
 [![Python package](https://github.com/yinglilu/dicom-anonymizer/actions/workflows/pythonpackage.yml/badge.svg)](https://github.com/yinglilu/dicom-anonymizer/actions/workflows/pythonpackage.yml)
 
+
 # Anonymize dicom files in input_dir recursively
 
 ## Usage: 
 
 to anonymize a file:  
 
-    python dcm_anon.py input_dicom_file output_dicom_file
+    python dcm_anon.py path/to/input_dicom_file path/to/output_dicom_file
 
 to anonymize all dicom files in a folder recursively:    
 
